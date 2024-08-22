@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+## Модальное окно
+![1660249510674](https://user-images.githubusercontent.com/12086860/184235807-bfb5d74b-68dc-4903-8b15-e18f6427fcc2.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**👀 Useful Concepts**
+1. Conditional Rendering
+2. How to Create an Animated Modal Window
+3. How to Pass Content (children) into a Modal Window
+4. How to Pass Props
 
 ## Available Scripts
 
